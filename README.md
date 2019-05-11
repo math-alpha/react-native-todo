@@ -2,10 +2,10 @@
 
 From a 3 days workshop at ActiveSpaces from 09/05/2019 to 11/05/2019.
 
-##Todo
+## Todo
 -Solve bugs
 -add features
 
-##Instructors
+## Instructors
 Daniel Carlson
 Fongoh Martin
